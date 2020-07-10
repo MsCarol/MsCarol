@@ -10,5 +10,5 @@
 - 💬 Ask me about Mobile Apps, Developer Communities
 - 📫 How to reach me: @MsCarol(GitHub)
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I hate Python 
+- ⚡ Fun fact: I sing! 
 
