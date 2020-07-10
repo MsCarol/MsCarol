@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on DataScience Projects(with R)
 - 🤔 I’m looking for help with Kotlin
 - 💬 Ask me about Mobile Apps, Developer Communities
-- 📫 How to reach me: @MsCarol(GitHub)
+- 📫 How to reach me: Hit Send!
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I sing! 
 
