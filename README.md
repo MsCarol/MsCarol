@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Mobile Apps, Developer Communities
 - 📫 How to reach me: Hit Send! 
-- Just Drop me a note @ItsMsCarol on all social networks where my id exists. Happy finding 😄
+- 😄 Just Drop me a note @ItsMsCarol on all social networks where my id exists. Happy finding 😄
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I sing! 
 
