@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on helping Developers build amazing things on top of Facebook
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Mobile Apps, Developer Communities
-- 📫 How to reach me: Hit Send! 
-- 😄 Just Drop me a note @ItsMsCarol on all social networks where my id exists. Happy finding 😄
+- 📫 How to reach me: Hit Send! mailmscarol@gmail.com {{no_spam_emails}}
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I sing! 
 
